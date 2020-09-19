@@ -4,7 +4,7 @@ Hello, I'm Kevin Ochieng
 <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 </h1>
 
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100">
 
 ## 👨🏾‍💻 ABOUT ME
 
